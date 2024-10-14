@@ -1,2 +1,4 @@
+openml
+pandas
 huggingface_hub
 datasets
