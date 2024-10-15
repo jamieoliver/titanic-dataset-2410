@@ -1,5 +1,5 @@
 openml
 pandas
 numpy
-huggingface_hub
 datasets
+huggingface_hub
